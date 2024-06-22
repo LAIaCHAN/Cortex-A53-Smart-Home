@@ -1,0 +1,2 @@
+kernel//imx8/modules/LCD1602/driver/LCD1602_driver.ko
+kernel//imx8/modules/LCD1602/driver/spi-gpio.ko
